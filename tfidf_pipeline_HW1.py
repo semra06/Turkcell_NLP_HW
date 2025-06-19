@@ -14,6 +14,13 @@ corpus = [
     "Artificial Intelligence is the future.",
     "AI is changing the world.",
     "AI is a branch of computer science.",
+    "Machine learning is a subset of AI.",
+    "Deep learning models require large amounts of data.",
+    "Natural Language Processing helps computers understand human language.",
+    "AI can improve decision-making in many industries.",
+    "Ethics in AI is an important area of research.",
+    "Computer vision allows machines to interpret visual information.",
+    "AI-powered assistants are becoming increasingly common."
 ]
 
 # 2. Define the preprocessing pipeline
